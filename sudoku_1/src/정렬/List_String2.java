@@ -6,7 +6,7 @@ import java.util.*;
 public class List_String2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("수정rrrs해봄");
+        System.out.println("수정해봄");
         int ea = sc.nextInt();
         ArrayList<String>[] list = new ArrayList[51];
         String a;
